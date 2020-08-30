@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  node:
+        image: mcic_docker_image
+        ports:
+            - 5000:5000
