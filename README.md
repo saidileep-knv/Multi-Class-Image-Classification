@@ -1,6 +1,8 @@
 # Multi-Class-Image-Classification
 
-Weather conditions often disrupt the proper functioning of transportation systems. Multi-class outdoor weather classification is a difficult task to perform due to diversity and lack of distinct weather characteristics or features. The aim of this project is to use transfer learning on the ResNet34 architecture and come up with an accurate classifier of still images of weather.
+Weather conditions often disrupt the proper functioning of transportation systems. Multi-class outdoor weather classification is a difficult task to perform due to diversity and lack of distinct weather characteristics or features. 
+
+The aim of this project is to use transfer learning on the ResNet34 architecture and come up with an accurate classifier of still images of weather.
 
 ## Dataset
 
@@ -16,6 +18,10 @@ Number |  300 |  235 | 215 |  357
 
 A web app is hosted using the template from [Render](https://github.com/render-examples/fastai-v3) on the local machine and its preview is down below. 
 ![Preview of the web app hosted on the local machine](https://github.com/saidileep-knv/Multi-Class-Image-Classification/blob/master/test_images/WebApp.png?raw=true)
+
+## Conclusion
+
+The image classifier built using CNN and ResNet34 architecture achieved an accuracy of **98.6%**. This is achieved by transfer learning upon unfreezing the hidden layers and training using the above dataset.
 
 ## References
 [1] Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley Data, V1, doi: 10.17632/4drtyfjtfy.1
