@@ -14,7 +14,7 @@ Number |  300 |  235 | 215 |  357
 
 ## WebApp on local machine
 
-A web app is hosted using the template from [Render](https://github.com/render-examples/fastai-v3) on the local machine and its preview is dwon below. 
+A web app is hosted using the template from [Render](https://github.com/render-examples/fastai-v3) on the local machine and its preview is down below. 
 ![Preview of the web app hosted on the local machine](https://github.com/saidileep-knv/Multi-Class-Image-Classification/blob/master/test_images/WebApp.png?raw=true)
 
 ## References
