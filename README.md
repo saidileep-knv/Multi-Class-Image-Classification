@@ -2,7 +2,7 @@
 
 Weather conditions often disrupt the proper functioning of transportation systems. Multi-class outdoor weather classification is a difficult task to perform due to diversity and lack of distinct weather characteristics or features. 
 
-The aim of this project is to use transfer learning on the ResNet34 architecture and come up with an accurate classifier of still images of weather.
+The aim of this project is to use transfer learning on the ResNet34 architecture and build an accurate classifier of still images of weather.
 
 ## Dataset
 
