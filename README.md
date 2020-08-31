@@ -6,7 +6,7 @@ The aim of this project is to use transfer learning on the ResNet34 architecture
 
 ## Dataset
 
-The data is generated as part of the research work by Ajayi, Gbeminiyi and the data is made accessible to the public for computer vision applications for detectiona nd observation of weather conditions [1].
+The data is generated as part of the research work by Ajayi, Gbeminiyi and the data is made accessible to the public for computer vision applications for detection and observation of weather conditions [1].
 
 The dataset consists of a total of 1125 images which are maually labeled as cloudy, sunrise, rainy and sun shine. The distribution of the dataset is shown in the table below.
 
